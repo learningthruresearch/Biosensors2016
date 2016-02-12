@@ -1,3 +1,5 @@
+#Humidity (%) & Temperature (C) Sensor1 and Humidity (%) & Temperature (C) Sensor2
+#First line the first day, the second one the second day in the morning and the third one the second day at night
 47.00	26.00	48.00	25.00
 37.00	25.00	37.00	24.00
 36.00	25.00	37.00	23.00
